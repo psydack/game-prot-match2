@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 5ca3a7f84fd3849198eca1a1a60f31d6
+timeCreated: 1443916023
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: green
+    21300002: black
+    21300004: purple
+    21300006: yellow
+    21300008: pink
+    21300010: brown
+    21300012: orange
+    21300014: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_7
+    21300016: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_8
+    21300018: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_9
+    21300020: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_10
+    21300022: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_11
+    21300024: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_12
+    21300026: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_13
+    21300028: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_14
+    21300030: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_15
+    21300032: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_16
+    21300034: blue
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: green
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: black
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yellow
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pink
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brown
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 209
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orange
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 106
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dream_world_like_gem_sprites_by_ldejruff-d6st1xx_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
